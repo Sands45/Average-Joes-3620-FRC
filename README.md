@@ -11,9 +11,9 @@ Basic design goals (determining this was part of the process of the design):
    * The cart we would roll to finals for competitions.
    * 24" deep
    * 68" tall collapsed.
-   * Integrated battery charger
-   * Tool drawers
-   * Monitors and computer for qual match schedule and streaming matches in pits
+   * Integrated battery charger (bottom left side)
+   * Tool drawers (bottom right side)
+   * Monitors and computer for qual match schedule and streaming matches in pits (facing aisle on end)
    * About 1300 lbs loaded
 4) B Cart:
    * Stays in pits for finals
@@ -28,3 +28,9 @@ Basic design goals (determining this was part of the process of the design):
 8) Actuators are ~1,000 N 12vdc units off Amazon 18" stroke
 9) The gas shocks are 36" 100 lb units off Amazon.
 10) Linear slides are "SBR12" sized units, again amazon.
+11) There are a whole bunch of quality of life small things we added.
+    * Coat hooks on the end in the corner - Michigan after all.
+    * Fans on the B cart so the pit crew stays cool when turning the robot for the next match.
+    * Lots and lots of lighting.
+    * Slim mini computer for match schedule display (a rasp pi would work too)
+    * Lots and lots of organization for tools. 
