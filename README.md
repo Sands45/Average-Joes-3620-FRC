@@ -20,7 +20,17 @@ Basic design goals (determining this was part of the process of the design):
 7) Computer display for streaming matches or marketing presentations.
 8) Enough tool and drawer storage for 3 people to work on the robot at once.
 9) We build the robot out of the Pit carts (so we know where all the tools are and are used to working in that space).
-10) A Cart:
+10) Actuators are ~1,500 N 12vdc units off Amazon 18" stroke
+11) The gas shocks are 36" 100 lb units off Amazon.
+12) Linear slides are "SBR12" sized units, again amazon.
+13) There are a whole bunch of quality of life small things we added.
+    * Coat hooks on the end in the corner - Michigan after all.
+    * Fans on the B cart so the pit crew stays cool when turning the robot for the next match.
+    * Lots and lots of lighting.
+    * Slim mini computer for match schedule display (a rasp pi would work too)
+    * Lots and lots of organization for tools.
+   
+**A Cart:**
    * The cart we would roll to finals for competitions.
    * 24" deep
    * 68" tall collapsed.
@@ -28,7 +38,8 @@ Basic design goals (determining this was part of the process of the design):
    * Tool drawers (bottom right side)
    * Monitors and computer for qual match schedule and streaming matches in pits (facing aisle on end)
    * About 1300 lbs loaded - 9 batteries are heavy!
-11) B Cart:
+     
+ **B Cart:**
    * Stays in pits for finals
    * 68" tall packed
    * 30" deep = more room for a workspace and top
@@ -36,17 +47,12 @@ Basic design goals (determining this was part of the process of the design):
    * "Deeper" spares - stuff we won't need for finals repairs, if we do, we have bigger problems.
    * Overhead lights over the robot when in pits (this is a game changer for us)
    * About 1100 lbs loaded.
-11) Robot Cart (not yet in respository):
+     
+ **Robot Cart** (not yet in respository):
     * Cable actuated elevator for working under the robot. Lowered for transport (~$60 winch from Harbor Freight)
-12) Marketing Cart (not yet in repository):
+  
+ **Marketing Cart** (not yet in repository):
     * Buttons, TV for presentations, Judge's book, etc.
     * Also one of the corners for the overhead banners
-14) Actuators are ~1,500 N 12vdc units off Amazon 18" stroke
-15) The gas shocks are 36" 100 lb units off Amazon.
-16) Linear slides are "SBR12" sized units, again amazon.
-17) There are a whole bunch of quality of life small things we added.
-    * Coat hooks on the end in the corner - Michigan after all.
-    * Fans on the B cart so the pit crew stays cool when turning the robot for the next match.
-    * Lots and lots of lighting.
-    * Slim mini computer for match schedule display (a rasp pi would work too)
-    * Lots and lots of organization for tools. 
+
+    
