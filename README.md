@@ -50,16 +50,16 @@ Basic design goals (determining this was part of the process of the design):
    * About 1100 lbs loaded.
      
  **Robot Cart:**
-    * Cable actuated elevator for working under the robot. Lowered for transport (~$60 winch from Harbor Freight)
-    * Forks are width adjustable for each year's robot.
-    * Larger diameter casters for easier rolling over door threasholds and the pit floor at Saginaw State's Field House gym
-    * Side panel LEDs (not in CAD) for showing off sponsor logos, etc. 
-    * Large enough cabinet for travel storage for controllers, robot laptop, etc.
+  * Cable actuated elevator for working under the robot. Lowered for transport (~$60 winch from Harbor Freight)
+  * Forks are width adjustable for each year's robot.
+  * Larger diameter casters for easier rolling over door threasholds and the pit floor at Saginaw State's Field House gym
+  * Side panel LEDs (not in CAD) for showing off sponsor logos, etc.
+  * Large enough cabinet for travel storage for controllers, robot laptop, etc.
   
  **Marketing Cart:** (Sorry, CAD isn't fully up to date... )
-    * Buttons, TV for presentations, Judge's book, etc.
-    * Supports one of the corners for the overhead banners
-    * "Dump Bin" in the bottom for all the buttons, binders, etc.
-    * Mount a TV on the corner post, so a power strip below with a ~15' extension cord.
+   * Buttons, TV for presentations, Judge's book, etc.
+   * Supports one of the corners for the overhead banners
+   * "Dump Bin" in the bottom for all the buttons, binders, etc.
+   * Mount a TV on the corner post, so a power strip below with a ~15' extension cord.
 
     
