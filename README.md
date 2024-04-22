@@ -69,4 +69,5 @@ CAD files are in the folder marked "CAD Files".
  **Next Steps?**
  1) Not quite sure, but there are some small "quality of life" tweeks for use-ability and speed of setup that we want to do. (eg., a vacuum attachement for the bad saw, a better place for shipping straps, etc. etc.)
  2) Need a place for the robot laptops for setup and transport
- 3) Discussing a 5th cart that would be in the back left corner. A rack for backpacks and a stand for a larger TV for match streams. Jokingly, also a beverage dispenser. 
+ 3) Discussing a 5th cart that would be in the back left corner. A rack for backpacks and a stand for a larger TV for match streams. Jokingly, also a beverage dispenser.
+ 4) Sort out the valance on the upper front of the carts. Thinking about pocket routing our logo and numbers into 3/8 polycarb, but may try to ask a sponsor to cut them into steel sheet. We will see. 
