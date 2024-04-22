@@ -26,7 +26,8 @@ CAD files are in the folder marked "CAD Files".
 11) Actuators are ~1,500 N 12vdc units off Amazon 18" stroke. 12vdc power supply in the cart for primary power. Backup power is off a robot battery.
 12) The gas shocks are 36" 100 lb units off Amazon. The upper weighs about 250lbs unloaded. If an actuator failed, we'd unload the upper, manually raise, then prop up.
 13) Linear slides are "SBR12" sized units, again Amazon. SBR12 rails are about 1.5" wide, so convenient when bolting them up to the 1.5" AL extrusions.
-14) There are a whole bunch of quality of life things we added:
+14) The floor shows a 10x10 grid, and a 8x8 grid for reference. 
+15) There are a whole bunch of quality of life things we added:
     * Coat hooks on the end in the corner - Michigan after all.
     * Fans on the B cart so the pit crew stays cool when turning the robot for the next match.
     * Lots and lots of lighting.
@@ -70,4 +71,5 @@ CAD files are in the folder marked "CAD Files".
  1) Not quite sure, but there are some small "quality of life" tweeks for use-ability and speed of setup that we want to do. (eg., a vacuum attachement for the bad saw, a better place for shipping straps, etc. etc.)
  2) Need a place for the robot laptops for setup and transport
  3) Discussing a 5th cart that would be in the back left corner. A rack for backpacks and a stand for a larger TV for match streams. Jokingly, also a beverage dispenser.
- 4) Sort out the valance on the upper front of the carts. Thinking about pocket routing our logo and numbers into 3/8 polycarb, but may try to ask a sponsor to cut them into steel sheet. We will see. 
+ 4) Sort out the valance on the upper front of the carts. Thinking about pocket routing our logo and numbers into 3/8 polycarb, but may try to ask a sponsor to cut them into steel sheet. We will see.
+ 5) Kids where talking about lay down floor tiles, we'll see. That adds to setup time and they need to be stored someplace. 
