@@ -28,8 +28,8 @@ Basic design goals (determining this was part of the process of the design):
    * 30" deep = more room for a workspace and top
    * Overhead lights over the robot when in pits (this is a game changer for us)
    * About 1100 lbs loaded.
-6) Robot Cart = cable actuated elevator for working under the robot. Lowered for transport
-7) Marketing Cart = buttons, TV for presentations, Judge's book, etc. Also one of the corners for the overhead banners
+6) Robot Cart (not yet in respository) = cable actuated elevator for working under the robot. Lowered for transport
+7) Marketing Cart (not yet in repository) = buttons, TV for presentations, Judge's book, etc. Also one of the corners for the overhead banners
 8) Actuators are ~1,000 N 12vdc units off Amazon 18" stroke
 9) The gas shocks are 36" 100 lb units off Amazon.
 10) Linear slides are "SBR12" sized units, again amazon.
