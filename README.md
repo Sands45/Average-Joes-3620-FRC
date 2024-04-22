@@ -1,7 +1,9 @@
-Average Joes 3620 Pit design.
+**Average Joes 3620 Pit design.**
 This was the summer project for the team prior to the 2024 Crescendo season. 
 
-We spend a bit of time inspecting and cataloging other team's pits in the '22 and '23 seasons and decided that we wanted to up our pit game for this year. Originally desgined for welded steel tube, we received a generous donation from Eagle Technologies in St. Joseph for a large array of 1515, 1530 and 3030 T slot extrusion. Also the Saint Joseph Public Schools Foundation for a donation of tools. So a re-design from steel to AL and here we are. We also received a generous donation from Coulson Casters for the pit casters. 6" under the carts and 8" for the robot cart. 
+We spend a bit of time inspecting and cataloging other team's pits in the '22 and '23 seasons and decided that we wanted to up our pit game for this year. Originally designed for welded steel tube, we received a generous donation from Eagle Technologies in St. Joseph for a large array of 1515, 1530 and 3030 T slot extrusion. The Saint Joseph Public Schools Foundation for a donation of tools. We also received a generous donation from Coulson Casters for the pit casters. 6" under the carts and 8" for the robot cart. 
+
+So a re-design from steel to AL and here we are.
 
 Onshape link (not sure why, but copy then paste link directly into browser bar for this to work):
 https://cad.onshape.com/documents/efd3c530b6e4ab49ce0c006e/w/c530996b856206875b4ca00d/e/435322b597488c2346612d4d?renderMode=0&uiState=6625a8f8c0dabe41042ca756
@@ -10,7 +12,7 @@ CAD files are in the folder marked "CAD Files".
 
 ![alt text](https://github.com/Sands45/Average-Joes-3620-FRC/blob/main/Images/Average%20Pit.png?raw=true)
 
-Basic design goals (determining this was part of the process of the design):
+**Basic design goals (determining this was part of the process of the design):**
 1) 4 carts to load / unload from trailer (A, B, Robot, Marketing cart)
 2) 6 kids and sub 10 minute setup. (two kids for the A and B cart to safely push them).
 3) All 4 elements will fit into our trailer with some room to spare. So a faster load/unload if it's not super tight. 
@@ -37,7 +39,7 @@ Basic design goals (determining this was part of the process of the design):
    * The cart we would roll to finals for competitions.
    * 24" deep
    * 68" tall collapsed.
-   * Integrated battery charger (bottom left side, not resolved in CAD. We re-used existing shelves for the batteries).
+   * Nine battery rack and charger (bottom left side, not resolved in CAD. We re-used existing shelves for the batteries).
    * Tool drawers (bottom right side. Gladiator garage drawer unit donated).
    * Monitors and computer for qualifier match schedule and streaming matches in pits (facing aisle on end).
    * About 1300 lbs loaded - 9 batteries are heavy!
@@ -64,4 +66,7 @@ Basic design goals (determining this was part of the process of the design):
    * "Dump Bin" in the bottom for all the buttons, binders, etc.
    * Mount a TV on the corner post, so a power strip below with a ~15' extension cord.
 
-    
+ **Next Steps?**
+ 1) Not quite sure, but there are some small "quality of life" tweeks for use-ability and speed of setup that we want to do. (eg., a vacuum attachement for the bad saw, a better place for shipping straps, etc. etc.)
+ 2) Need a place for the robot laptops for setup and transport
+ 3) Discussing a 5th cart that would be in the back left corner. A rack for backpacks and a stand for a larger TV for match streams. Jokingly, also a beverage dispenser. 
