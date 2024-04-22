@@ -30,6 +30,8 @@ Basic design goals (determining this was part of the process of the design):
     * Lots and lots of lighting.
     * Slim mini computer for match schedule display (a rasp pi would work too). Eventually we may do a stop motion or live displays from the pits. 
     * Lots and lots of organization for tools.
+    * Polycarb "doors" (the things with the X's on them) to retain stuff in the cart for transport. Fast and easy to install / remove.
+    * Eye bolts in key locations to retain parts, drawers, lights, etc. We used shipping straps for this. 
    
 **A Cart:**
    * The cart we would roll to finals for competitions.
