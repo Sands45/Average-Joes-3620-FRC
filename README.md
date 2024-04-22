@@ -3,7 +3,7 @@ This was the summer project for the team prior to the 2024 Crescendo season.
 
 We spend a bit of time inspecting and cataloging other team's pits in the '22 and '23 seasons and decided that we wanted to up our pit game for this year. Originally desgined for welded steel tube, we received a generous donation from Eagle Technologies in St. Joseph for a large array of 1515, 1530 and 3030 T slot extrusion. So a re-design and here we are. We also received a generous donation from Coulson Casters for the pit casters. 6" under the carts and 8" for the robot cart. 
 
-Onshape link:
+Onshape link (not sure why, but copy then paste link directly into browser bar):
 https://cad.onshape.com/documents/efd3c530b6e4ab49ce0c006e/w/c530996b856206875b4ca00d/e/435322b597488c2346612d4d?renderMode=0&uiState=6625a8f8c0dabe41042ca756
 
 CAD files are in the folder marked "CAD Files".
