@@ -3,7 +3,7 @@ This was the summer project for the team prior to the 2024 Crescendo season.
 
 We spend a bit of time inspecting and cataloging other team's pits in the '22 and '23 seasons and decided that we wanted to up our pit game for this year. Originally desgined for welded steel tube, we received a generous donation from Eagle Technologies in St. Joseph for a large array of 1515, 1530 and 3030 T slot extrusion. So a re-design and here we are. We also received a generous donation from Coulson Casters for the pit casters. 6" under the carts and 8" for the robot cart. 
 
-![alt text](https://github.com/Sands45/Average-Joes-3620-FRC/blob/4107d8bb8dc9ae7539f547a06ec70503a6269353/Average%20Pit.png)
+![alt text](https://github.com/Sands45/Average-Joes-3620-FRC/blob/main/Images/Average%20Pit.png?raw=true)
 
 Basic design goals (determining this was part of the process of the design):
 1) 4 carts to load / unload from trailer (A, B, Robot, Marketing carts)
