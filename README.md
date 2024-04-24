@@ -1,7 +1,13 @@
 **Average Joes 3620 Pit design.**
 This was the summer project for the team prior to the 2024 Crescendo season. 
 
-We spend a bit of time inspecting and cataloging other team's pits in the '22 and '23 seasons and decided that we wanted to up our pit game for this year. Originally designed for welded steel tube, we received a generous donation from Eagle Technologies in St. Joseph for a large array of 1515, 1530 and 3030 T slot extrusion. The Saint Joseph Public Schools Foundation for a donation of tools. We also received a generous donation from Coulson Casters for the pit casters. 6" under the carts and 8" for the robot cart. 
+We spend a bit of time inspecting and cataloging other team's pits in the '22 and '23 seasons and decided that we wanted to up our pit game for this year. Originally designed for welded steel tube, we received a generous donation from Eagle Technologies in St. Joseph for a large array of 1515, 1530 and 3030 (inch sized) T slot extrusion. The Saint Joseph Public Schools Foundation for a donation of tools. We also received a generous donation from Colson Casters for the pit casters. 6" under the carts and 8" for the robot cart. 
+
+**Donations:**
+* Eagle Technologies - Extruded AL T slot tube
+* The Saint Joseph Public Schools Foundation - general funding for tools and parts
+* Colson Casters - Casters
+* Mentor time, tools, and materials to get it done by season start. (Ken, Kirk, Ben, Aaron, Stu and more)
 
 So a re-design from steel to AL and here we are.
 
@@ -15,7 +21,7 @@ CAD files are in the folder marked "CAD Files".
 **Basic design goals (determining this was part of the process of the design):**
 1) 4 carts to load / unload from trailer (A, B, Robot, Marketing cart)
 2) 6 kids and sub 10 minute setup. (two kids for the A and B cart to safely push them).
-3) All 4 elements will fit into our trailer with some room to spare. So a faster load/unload if it's not super tight. 
+3) All 4 elements will fit into our trailer with some room to spare. So a much faster load/unload than what we had before.
 4) Lights, lots of lights, especially over the robot.
 5) Outlets, lots of outlets.
 6) EVERTYHING has a home on the carts. For transport and for game time. Chest drawers are lined with foam tiles and then cutout so tools have a home and don't roll around during transport.
@@ -23,17 +29,19 @@ CAD files are in the folder marked "CAD Files".
 8) Computer display for streaming matches or marketing presentations.
 9) Enough tools (with drawer storage) for 3 people to work on the robot at once.
 10) We build the robot out of the Pit carts (so we know where all the tools are and are used to working in that space).
-11) Actuators are ~1,500 N 12vdc units off Amazon 18" stroke. 12vdc power supply in the cart for primary power. Backup power is off a robot battery.
-12) The gas shocks are 36" 100 lb units off Amazon. The upper weighs about 250lbs unloaded. If an actuator failed, we'd unload the upper, manually raise, then prop up.
+11) Actuators are ~1,500 N 12vdc units from Amazon 18" stroke. 12vdc power supply in the cart for primary power. Backup power is a robot battery.
+12) The gas shocks are 36" 100 lb units from Amazon. The upper weighs about 250lbs unloaded. If an actuator failed, we'd unload the upper, manually raise, then prop up.
 13) Linear slides are "SBR12" sized units, again Amazon. SBR12 rails are about 1.5" wide, so convenient when bolting them up to the 1.5" AL extrusions.
-14) The floor shows a 10x10 grid, and a 8x8 grid for reference. 
-15) There are a whole bunch of quality of life things we added:
+14) Plywood for the deck, benchtop and side covers. 3/4" for bench and decks. 1/4" slides nicely into the T-slot for side covers.
+15) Interior Gloss enamel for most paint, "deck" paint for benchtop.
+16) The floor shows a 10x10 and a 8x8 grid for reference. 
+17) There are a whole bunch of quality of life things we added:
     * Coat hooks on the end in the corner - Michigan after all.
     * Fans on the B cart so the pit crew stays cool when turning the robot for the next match.
     * Lots and lots of lighting.
-    * Slim mini computer for match schedule display (a rasp pi would work too). Eventually we may do a stop motion or live displays from the pits. 
+    * Slim mini computer for match schedule display (a raspberry pi would work too). Eventually we may do a stop motion video or live display stream from the pits. 
     * Lots and lots of organization for tools.
-    * Polycarb "doors" (the things with the X's on them) to retain stuff in the cart for transport. Fast and easy to install / remove.
+    * Polycarb "doors" (the things with the X's on them) to retain stuff in the cart for transport. Fast and easy to install / remove and robust
     * Eye bolts in key locations to retain parts, drawers, lights, etc. We used shipping straps for this. 
    
 **A Cart:**
@@ -70,6 +78,6 @@ CAD files are in the folder marked "CAD Files".
  **Next Steps?**
  1) Not quite sure, but there are some small "quality of life" tweeks for use-ability and speed of setup that we want to do. (eg., a vacuum attachement for the bad saw, a better place for shipping straps, etc. etc.)
  2) Need a place for the robot laptops for setup and transport
- 3) Discussing a 5th cart that would be in the back left corner. A rack for backpacks and a stand for a larger TV for match streams. Jokingly, also a beverage dispenser.
+ 3) Discussing a 5th cart that would be in the back left corner. A rack for backpacks and a stand for a larger TV for match streams. Jokingly, also a beverage dispenser or fridge.
  4) Sort out the valance on the upper front of the carts. Thinking about pocket routing our logo and numbers into 3/8 polycarb, but may try to ask a sponsor to cut them into steel sheet. We will see.
  5) Kids where talking about lay down floor tiles, we'll see. That adds to setup time and they need to be stored someplace. 
